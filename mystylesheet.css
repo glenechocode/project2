@@ -1,8 +1,5 @@
-h2 {
-background-color: red;
+#box1 {
+  margin: 20px;
+  background-color: tan;
 }
 
-h3 {
-  background-color: yellow;
-  color: blue;
-}
