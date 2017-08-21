@@ -1,7 +1,8 @@
 #box1 {
   margin: 20px;
-  background-color: tan;
+  background-color: yellow;
   color: blue;
-  width: 400px;
+  width: 50%;
+  height: 50%
 }
 
